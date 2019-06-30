@@ -5,4 +5,5 @@
 folder and repository should be same every time 
 5)git remote add origin (link of repository) channel ceated
 6)git push -u origin master
-enter userid and password
+enter userid and password(one time user id password)
+
