@@ -1,0 +1,8 @@
+1)git init
+2)git status
+3)git add  .
+4)git commit -m ""hermain rais""
+folder and repository should be same every time 
+5)git remote add origin (link of repository) channel ceated
+6)git push -u origin master
+enter userid and password
